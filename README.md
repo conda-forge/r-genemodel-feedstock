@@ -1,11 +1,11 @@
-About r-genemodel
-=================
+About r-genemodel-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-genemodel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/greymonroe/genemodel
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-genemodel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Using simple input, this package creates plots of gene models. Users can create plots of alternatively spliced gene variants and the positions of mutations and other gene features.
 
